@@ -1,0 +1,25 @@
+{
+  "name": "text-utils-backend",
+  "version": "1.0.0",
+  "description": "Simple web app that give text utilities like capitalizing text and removing punctuations etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "text",
+    "text-utilities",
+    "text-utils",
+    "capitalize"
+  ],
+  "author": "Yumna Waris",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "nodemon": "^2.0.19"
+  }
+}
